@@ -1,0 +1,43 @@
+.logon-container {
+    width: 100%;
+    max-width: 1120px;
+    height: 100vh;
+    margin: 0 auto;
+    margin-left: 280px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+form input {
+    width: 100%;
+    height: 60px;
+    color: #333;
+    border: 1px solid #dcdce6;
+    border-radius: 8px;
+    padding: 0 24px;
+    margin-top: 5px;
+
+}
+
+.logon-container section.form {
+    width: 100%;
+    max-width: 1050px;
+    margin-right: 200px;
+}
+
+.logon-container section.form form {
+    margin-top: 40px;
+    
+}
+
+.logon-container .inputLogon{
+    width: 150%;
+}
+
+.logon-container section.form form h1 {
+    font-size: 32px;
+    margin-bottom: 32px;
+    color: #ffcc00;
+}
